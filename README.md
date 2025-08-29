@@ -54,7 +54,7 @@ The project code is organized within the notebook, with distinct sections for:
   * **README.md:** This file provides an overview of the project. [README.md](https://github.com/gethiten/ClassifiersModelling/tree/main/README.md)
   * **models:** Tuned Random Forest model ['tuned_random_forest_model.joblib'](https://github.com/gethiten/ClassifiersModelling/tree/main/models) saved to models folder
 
-## Setup and Usage
+## Setup and Usage 
 To run this notebook, you will need Python and the following libraries installed:
 
 * pandas
@@ -63,3 +63,6 @@ To run this notebook, you will need Python and the following libraries installed
 * seaborn
 * scikit-learn
 * joblib
+* scipy
+* time
+* itertools
