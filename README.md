@@ -49,7 +49,7 @@ The project code is organized within the notebook, with distinct sections for:
 ## Repository Contents:
 
   * **data:** Contains the dataset used to build predictive models. [click here for datasets](https://github.com/gethiten/ClassifiersModelling/tree/main/data)
-  * **classifiers.ipynb:** Jupyter Notebook containing the code for data exploration, analysis, modelling, evaluation, and visualization. classifiers.ipynb
+  * **classifiers.ipynb:** Jupyter Notebook containing the code for data exploration, analysis, modelling, evaluation, and visualization. [classifiers.ipynb](https://github.com/gethiten/ClassifiersModelling/blob/main/classifiers.ipynb)
   * **images:** Folder containing generated visualizations. [Images](https://github.com/gethiten/ClassifiersModelling/tree/main/images)
   * **README.md:** This file provides an overview of the project. [README.md](https://github.com/gethiten/ClassifiersModelling/tree/main/README.md)
   * **models:** Tuned Random Forest model ['tuned_random_forest_model.joblib'](https://github.com/gethiten/ClassifiersModelling/tree/main/models) saved to models folder
